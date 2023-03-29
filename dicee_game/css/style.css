@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.players{
+    text-align: center;
+}
+.player1{
+    display: inline-block;
+    padding-right: 50%;
+
+}
+.player2{
+    display: inline-block;
+}
+
+#resultado{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    padding-top: 10%;
+}
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
